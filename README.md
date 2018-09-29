@@ -13,7 +13,7 @@
 
 ---
 
-> pip install feiyan
+> pip install feiyan-py3
 
 
 ## 示例
