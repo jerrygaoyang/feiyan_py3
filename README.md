@@ -2,13 +2,11 @@
 
 ---
 
-## 安装
+## 说明
+
+> 该包只支持 python3 , 如果使用 python2.7版本, 请连接至 https://github.com/jerrygaoyang/feiyan
 
 ---
-
-### 说明
-
-> 只支持 python3
 
 ### 安装
 
