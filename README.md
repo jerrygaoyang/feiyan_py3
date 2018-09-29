@@ -4,11 +4,14 @@
 
 ## 说明
 
-> 该包只支持 python3 , 如果使用 python2.7版本, 请连接至 https://github.com/jerrygaoyang/feiyan
-
 ---
 
-### 安装
+> 该包只支持 python3 , 如果使用 python2.7版本, 请连接至 https://github.com/jerrygaoyang/feiyan
+
+
+## 安装
+
+---
 
 > pip install feiyan
 
